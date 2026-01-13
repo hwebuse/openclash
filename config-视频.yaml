@@ -5,7 +5,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://xn--cp3a08l.com/api/v1/client/subscribe?token=74b234b2f759b730125e257d5364b8ac"
+    url: "XXXXXXXXXX"
     type: http
     interval: 86400
     health-check:
